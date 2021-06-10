@@ -1,4 +1,4 @@
-# Erstes Kapitel<br />**Dem Eismeer entgegen** {#achter .unnumbered}
+# Erstes Kapitel<br />**Dem Eismeer entgegen** {#erstes .unnumbered}
 
 
 ::: justified
@@ -26,12 +26,12 @@ und ruhig auf der Gjöa, die ganze Navigation wurde vorläufig von einem
 Schleppdampfer besorgt, den wir vor dem Bug hatten. Die Wache war dem Steuermann
 überlassen, sowie unsern sechs Hunden. Diese Hunde hatten schon bei der zweiten
 Expedition der „Fram“, die sie mit nach Hause gebracht hatte, gute Dienste
-geleistet. Arme Tiere! Es wäre besser gewesen, man hätte sie in Eis und Schnee:
+geleistet. Arme Tiere! Es wäre besser gewesen, man hätte sie in Eis und Schnee
 zurückgelassen, anstatt sie dahin zu schleppen, wo sie sich, besonders in diesem
 Frühling, der so ungewöhnlich warm war, sehr übel befanden. Da standen sie
 nebeneinander angebunden und sahen in dem Regen jammerwürdig aus — denn Regen
 ist das Schlimmste, was man einem Polarhund bieten kann. Schon auf der Herreise
-hatten sie eine Seefahrt in Regenund Nebelwetter durchmachen müssen, und jetzt
+hatten sie eine Seefahrt in Regen und Nebelwetter durchmachen müssen, und jetzt
 war ihnen auf der Rückkehr eine zweite beschieden. Aber nun ging es ja auch
 wieder dahin — wo die armen Schelme daheim waren!
 
@@ -91,7 +91,7 @@ Meinen eigenen Erfahrungen gemäß hatte ich beschlossen, soweit wie möglich an
 Bord Freiheit walten zu lassen, — jeder sollte das Gefühl bekommen, daß er in
 seinem eignen Bereich unabhängig sei. Dadurch entsteht — bei vernünftigen Leuten
 — von selbst eine freiwillige Disziplin, die einen viel größeren Wert hat als
-die erzwungne. Dabei bekommt jeder einzelne das Bewußtsein, ein. Mensch zu sein,
+die erzwungne. Dabei bekommt jeder einzelne das Bewußtsein, ein Mensch zu sein,
 mit dem man als mit einem denkenden Wesen rechnet, und nicht nur wie mit einer
 Maschine, die aufgezogen wird. Die Arbeitslust wird vervielfacht, und damit die
 Arbeit selbst. Ich möchte das auf der Gjöa angewendete System jedermann
@@ -146,7 +146,7 @@ durchschnitten das Wasser mit einer Geschwindigkeit von zehn Meilen. Der große
 Luvbaum war gut abgefiert und Stopper aufgesetzt. Es regnete sacht, als ich mich
 am Abend in meine Koje legte. Nachts um ein Uhr sprang der Wind nach Osten um,
 dadurch stürzte das Großsegel herab. Der Baunistopper zerbrach, und der Luvbaum
-flog mit furchtbarer Kraft daher. _Dies hätte ernsthafte Folgen haben können,
+flog mit furchtbarer Kraft daher. Dies hätte ernsthafte Folgen haben können,
 aber in dem Augenblick, wo der Stopper brach, zerbrach bei allem Unglück zum
 guten Glück auch der Karveelnagel, wodurch der Piekfall festgemacht wurde, und
 zwar mit dem Erfolg, daß der Piek sich von selbst bog und den Stoß dämpfte, der
@@ -270,7 +270,7 @@ keines, obgleich man hätte denken sollen, der beständige Nordwind, den wir die
 ganze Zeit her entgegen gehabt hatten, hätte eine Menge Eis südwärts getrieben.
 Es war vielleicht gar kein Eis mehr da —?
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100 }
 ![Das Lüften der verschimmelten Brote.](Die_Nordwest-Passage_018.jpg "Das Lüften der verschimmelten Brote."){#b018}
 ::::
 
@@ -421,7 +421,7 @@ Der Inspektor, der Kolonievorstand und der Assistent begleiteten uns zum Sund
 hinaus.. Die öffentlichen Gebäude hatten beflaggt, und die Batterie auf dem
 Hügel schickte uns einen Salutschuß nach. In den Scheren verabschiedeten wir uns
 endgültig von unsern Freunden, winkten der gastfreien dänischen Flagge noch
-einmal zu — und dann waren wir uns wieder selbst überlassen. Gleich vor dem.Sund
+einmal zu — und dann waren wir uns wieder selbst überlassen. Gleich vor dem Sund
 draußen trafen wir unsern alten Bekannten, den Nordwestwind, und mußten sogleich
 kreuzenderweise weiterfahren.
 
@@ -521,7 +521,7 @@ Dasein. Die abgelöste Wache saß jetzt drunten bei einem dampfend heißen Kaffe
 den sie nach einer sechsstündigen Anstrengung wohl verdient hatte.
 
 Plötzlich drang ein Lichtschein durch den Nebel. Und wie mit einem Zauberschlage
-Öffnete sich vor mir eine weite Aussicht in strahlende Tageshelle hinein; gerade
+öffnete sich vor mir eine weite Aussicht in strahlende Tageshelle hinein; gerade
 vor uns — und anscheinend ganz nahe — lag die wild zerrissene Landschaft von Kap
 York, die bei ihrem plötzlichen Auftauchen wie ein verlockendes Märchenland
 erschien.
@@ -543,7 +543,7 @@ einem unvergeßlich und üben einen solchen Zauber, daß man sich danach sehnt u
 sich dahin zurückwünscht — trotz aller Entbehrungen und aller Mühe.
 
 Die Eisverhältnisse unsrer Kursrichtung sahen vielversprechend aus. Allerdings
-lag noch etwas Eis Iluvwärts, aber wir achteten weiter nicht darauf. An
+lag noch etwas Eis luvwärts, aber wir achteten weiter nicht darauf. An
 demselben Tage, gerade um Mittag, schloß sich das Eis zusammen, so daß nur eine
 ganz kleine Rinne gegen Norden blieb. Wir waren da noch fünfundzwanzig Seemeilen
 vom Kap York entfernt. Doch das Eis vor uns wurde wieder weicher — wie wenn sich
@@ -586,7 +586,7 @@ nordgrönländischen Eskimos, von denen man sich wunderliche Dinge erzählt, ken
 zu lernen. Es waren recht gut aussehende Männer. Ihre Kleidung erschien uns
 freilich im Anfang etwas auffallend; einen ungeheuren Jubel erregte es
 besonders, als einer von ihnen sich bückte, um ein Messer aufzuheben, das ihm
-entfallen war, und dabei einen großen Teil seiner Sitzgelegen- heit entblößte.
+entfallen war, und dabei einen großen Teil seiner Sitzgelegenheit entblößte.
 Eine feine Art, sich zu verbeugen! Sie waren überaus lebhaft, schrieen
 durcheinander, fochten und gestikulierten mit den Armen. Sie hatten uns offenbar
 etwas ganz Besondres zu berichten. Aber wir verstanden ja natürlich keinen Deut
@@ -708,14 +708,14 @@ feindlichen Parteien auseinanderzuhalten.
 Am siebzehnten August, um halb drei Uhr morgens, setzten wir unsre Reise fort.
 Es war ein herrlicher Morgen. Ein Gletscher um den andern dehnte sich im Norden
 in glänzender Breite aus, bis das Land bei Kap Parry abschloß. Beim Anblick
-eines Gletschers, den unser kühner Landsmann Eivind Astrup erstiegen -hatte, um
+eines Gletschers, den unser kühner Landsmann Eivind Astrup erstiegen hatte, um
 mit Peary^[^0107]^ zusammen seine Wanderung über das Inlandeis zu beginnen, wurde es mir
 sehr schwer, Augen und Gedanken davon abzuwenden. Aber ich mußte mich losreißen
 und meine Aufmerksamkeit auf meine eignen Angelegenheiten richten. Vor uns
 erstreckte sich eine Mauer von schweren, neugebildeten Eisbergen, die wir uns
 mit Macht vom Leibe halten mußten.
 
-Grönland wurde Jetzt kleiner und kleiner, und wir hielten guten Kurs auf Kap
+Grönland wurde jetzt kleiner und kleiner, und wir hielten guten Kurs auf Kap
 Horsburg, den nördlichen Eingang zum Lancastersund. Im Laufe des Tages
 passierten wir die Carreyinseln in einer Entfernung von fünfzehn Seemeilen.
 Glücklicherweise blieb das Wetter still und klar. Wie die Gjöa jetzt belastet
@@ -742,7 +742,7 @@ irre fuhren. Und wir fuhren wirklich ein paarmal irre. Aber ich tröstete mich
 damit, daß es denen, die nach uns kommen, wohl ebenso gehen wird.
 
 Nach ziemlich starkem Kreuzen erreichten wir am zweiundzwanzigsten August abends
-um neun Uhr die Insel Beechey und gingen an der Erebus-Bay vor Anker — —
+um neun Uhr die Insel Beechey und gingen an der Erebus-Bay vor Anker — —<br />
 — — — — — — — — — — — —
 
 Der Anker war gefallen, und das Schiff hatte beigedreht.
@@ -758,7 +758,7 @@ Franklins letzter sicherer Winterhafen gewesen.
 
 Meine Gedanken glitten rückwärts — in längst vergangne Zeiten.
 
-Ich sehe sie vor mir, die stattlich ausgerüstete FranklinFlotte, wie sie in den
+Ich sehe sie vor mir, die stattlich ausgerüstete Franklin-Flotte, wie sie in den
 Hafen hereinfuhr und — die Anker auswarf.
 
 „Erebus“ und „Terror“ sind noch in ihrem vollen Glanz! Die englischen Farben
@@ -915,13 +915,11 @@ Bellotplatte an der Belchersäule. Dann ruderten wir an Bord hinüber alle sehr
 befriedigt von dem Aufenthalt auf Beechey und nur von dem Wunsch beseelt,
 weiterzukommen.
 
-
 :::
 
 :::: align-center
 ****
 ::::
-
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

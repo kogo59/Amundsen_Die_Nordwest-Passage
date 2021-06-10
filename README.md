@@ -1,4 +1,4 @@
-# Die Eroberung des Suedpols. Zweiter Band.
+# Die Nordwest-Passage
 
 This is a git repository of the source files for the book
 "Die Nordwest-Passage"

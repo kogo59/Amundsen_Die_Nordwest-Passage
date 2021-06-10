@@ -79,10 +79,11 @@ von
 :::: { .fs-xl .align-right }
 Roald Amundsen
 ::::
+— — — — — — — — — — — —
 
 
 ::: { .justified .break-before }
-Der kleinen tapfern Schar, die mich auf der NordwestPassage begleitet und zur
+Der kleinen tapfern Schar, die mich auf der Nordwest-Passage begleitet und zur
 glücklichen Vollendung des Unternehmens das Leben eingesetzt hat, sende ich
 meinen warmen, innigen Dank.
 
@@ -132,18 +133,18 @@ mein Manuskript durchgesehen hat.
 * [Nordgrönländische Eskimos.](ch003.xhtml#b032)
 * [Die Ruinen des Franklin-Depots auf der Insel Beechey.](ch003.xhtml#b037)
 * [Das Denkmal für Franklin, Bellot und Belcher auf der Insel Beechey.](ch003.xhtml#b039)  
-* Brand
-* Die Gjöa auf Grund  
-* Die Gjöa vor Anker im Gjöahavn Sommer 1904  
-* Magnetische Meridiane 1885
-* Magnetische Inklinationslinien 1885
-* Verbindungslinien der Orte mit gleicher Horizontalintensität 1885   
-* Selbstregistrierende magnetische Variationsapparate
-* Magnetische Variationskurven bei ruhigen Verhältnissen
-* Magnetische Variationskurven bei Störungen    
-* Die Gjöa wird vermittels der Luftbahn gelöscht  
-* Der Bau des Registrierhauses Gjöahavn 1903   
-* Beim Bau des magnetischen Variationshauses Gjöahavn 1903
+* [Brand.](ch004.xhtml#b049)  
+* [Die Gjöa auf Grund.](ch004.xhtml#b053)   
+* [Die Gjöa vor Anker im Gjöahavn Sommer 1904.](ch004.xhtml#b063)  
+* [Magnetische Meridiane 1885.](ch004.xhtml#b065a)  
+* [Magnetische Inklinationslinien 1885.](ch004.xhtml#b066)  
+* [Verbindungslinien der Orte mit gleicher Horizontalintensität 1885.](ch004.xhtml#b068)    
+* [Selbstregistrierende magnetische Variationsapparate.](ch004.xhtml#b069)    
+* [Magnetische Variationskurven bei ruhigen Verhältnissen.](ch004.xhtml#b070a)    
+* [Magnetische Variationskurven bei Störungen.](ch004.xhtml#b070b)
+* [Die Gjöa wird vermittels der Luftbahn gelöscht.](ch004.xhtml#b072)  
+* [Der Bau des Registrierhauses Gjöahavn 1903.](ch004.xhtml#b074)     
+* [Beim Bau des magnetischen Variationshauses Gjöahavn 1903.](ch004.xhtml#b075)
 * Das Observatorium für die absoluten magnetischen Beobachtungen 1904—1905
 * Die Villa „Magnet“ im Sommergewand     
 * „Uranienborg“, das astronomische Observatorium zur Sommerzeit    

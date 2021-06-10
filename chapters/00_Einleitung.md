@@ -26,7 +26,7 @@ eingeschlagen hat, dort goldene Berge zu finden.
 
 Im Dienste der Wissenschaft sind sie ausgeführt worden, die unzähligen und
 unablässigen Sturmläufe gegen den schlimmsten „Böig“^[^0000]^, der dem menschlichen
-Forschungs-: drang jedesmal den Weg versperrt hat: das tausend- und
+Forschungsdrang jedesmal den Weg versperrt hat: das tausend- und
 abertausendjährige Eis, jene breite und feste Mauer um die Geheimnisse des
 Nordpols.
 
@@ -184,14 +184,14 @@ Tromsö Lebewohl. In Trontheim nahm ich Aufenthalt, um in der dortigen
 mechanischen Werkstatt von Isidor Nielsen alle notwendigen Schmiedearbeiten an
 Bord machen zu lassen. Die Petroleumbehälter wurden nach der Form der Jacht
 gebaut. Unser kleiner Motor, in allen Teilen leicht zu handhaben und praktisch
--13 P.S. nach dem Typ „Dan“ — wurde durch eine Transmission mit allem, was
+— 13 P.S. nach dem Typ „Dan“ — wurde durch eine Transmission mit allem, was
 getrieben werden konnte, in Verbindung gesetzt. Er wurde unser aller Liebling an
 Bord. Wenn er nicht lief, war es gerade, als sei uns ein guter Freund abhanden
 gekomnmen. Ich kann ruhig sagen, daß wir unsere glückliche Fahrt durch die
 Nordwestpassage zum großen Teil unserer ausgezeichneten kleinen Maschine zu
 verdanken haben.
 
-Im Frühling 1903 legte die Gjöa an der FramnäsBrücke in Christiania an, um die
+Im Frühling 1903 legte die Gjöa an der Framnäs-Brücke in Christiania an, um die
 ganze Ausstattung und Verproviantierung einzunehmen. Die großen, gleichmäßig
 gebauten Proviantkisten wurden wie Bauklötze in ihre Schachtel gepackt. So fein
 wurde alles gemacht, daß wir an Bord der kleinen Gjöa Lebensmittel und sonstige
@@ -230,7 +230,7 @@ magnetischen Observatorium in Potsdam erhalten und war mein Gehilfe bei den
 magnetischen Beobachtungen; er war der zweite Maschinist.
 
 6. Adolf Henrik Lindström, geboren zu Hammerfest 1865, der Koch der Expedition.
-Er hatte als Koch an der zweiten Forschungsreise der „Fram“^[^0009]^ teilgenommen.
+Er hatte als Koch an der zweiten 13reise der „Fram“^[^0009]^ teilgenommen.
 
 Eine Zeitlang hatten wir noch Geldsorgen. Erst im Juni war alles geordnet. Jetzt
 konnten wir an Bord unserer kleinen Jacht gehen und die Fahrt mit der Gjöa
