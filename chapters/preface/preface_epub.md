@@ -155,12 +155,12 @@ mein Manuskript durchgesehen hat.
 * [Der erste Weihnachtsabend an Bord 1903.](ch005.xhtml#b100)  
 * [Besuch in der Kajüte.](ch005.xhtml#b107)   
 * [Die erste Schlittenfahrt.](ch005.xhtml#b114)   
-* Die Teilnehmer an der Expedition von vorn (Winter 1903—1904)   
-* Die Teilnehmer an der Expedition von hinten (Winter 1903—1904)  
-* Kagoptinner in der Hütte seines Sohnes Poieta  
-* Netschjillieskimos in ihrer Schneehütte
-* Eskimos auf der Wanderung
-* Unser Zelt am magnetischen Nordpol   
+* [Die Teilnehmer an der Expedition von vorn (Winter 1903—1904).](ch006.xhtml#b118)    
+* [Die Teilnehmer an der Expedition von hinten (Winter 1903—1904).](ch006.xhtml#b119)    
+* [Kagoptinner in der Hütte seines Sohnes Poieta.](ch006.xhtml#b127)     
+* [Netschjillieskimos in ihrer Schneehütte.](ch006.xhtml#b131)
+* [Eskimos auf der Wanderung.](ch006.xhtml#b138)
+* [Unser Zelt am magnetischen Nordpol.](ch006.xhtml#b147)  
 * Der „Uhu“ als Bogenschütze
 * Kabloka   
 * Umiktuallu   
