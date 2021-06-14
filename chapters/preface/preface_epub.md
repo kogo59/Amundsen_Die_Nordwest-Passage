@@ -145,16 +145,16 @@ mein Manuskript durchgesehen hat.
 * [Die Gjöa wird vermittels der Luftbahn gelöscht.](ch004.xhtml#b072)  
 * [Der Bau des Registrierhauses Gjöahavn 1903.](ch004.xhtml#b074)     
 * [Beim Bau des magnetischen Variationshauses Gjöahavn 1903.](ch004.xhtml#b075)
-* Das Observatorium für die absoluten magnetischen Beobachtungen 1904—1905
-* Die Villa „Magnet“ im Sommergewand     
-* „Uranienborg“, das astronomische Observatorium zur Sommerzeit    
-* Der Oglulieskimo Ivajarra
-* Festmahlzeit bei den Netschjillieskimos   
-* Das Innere der Villa „Magnet“
-* Wiik am Eingang des Observatoriums   
-* Der erste Weihnachtsabend an Bord 1903  
-* Besuch in der Kajüte   
-* Die erste Schlittenfahrt  
+* [Das Observatorium für die absoluten magnetischen Beobachtungen 1904—1905.](ch005.xhtml#b082)
+* [Die Villa „Magnet“ im Sommergewand.](ch005.xhtml#b084)    
+* [„Uranienborg“, das astronomische Observatorium zur Sommerzeit.](ch005.xhtml#b086)     
+* [Der Oglulieskimo Ivajarra.](ch005.xhtml#b087)
+* [Festmahlzeit bei den Netschjillieskimos.](ch005.xhtml#b091)
+* [Das Innere der Villa „Magnet“.](ch005.xhtml#b092)
+* [Wiik am Eingang des Observatoriums.](ch005.xhtml#b096)    
+* [Der erste Weihnachtsabend an Bord 1903.](ch005.xhtml#b100)  
+* [Besuch in der Kajüte.](ch005.xhtml#b107)   
+* [Die erste Schlittenfahrt.](ch005.xhtml#b114)   
 * Die Teilnehmer an der Expedition von vorn (Winter 1903—1904)   
 * Die Teilnehmer an der Expedition von hinten (Winter 1903—1904)  
 * Kagoptinner in der Hütte seines Sohnes Poieta  
