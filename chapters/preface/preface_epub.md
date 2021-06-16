@@ -161,21 +161,20 @@ mein Manuskript durchgesehen hat.
 * [Netschjillieskimos in ihrer Schneehütte.](ch006.xhtml#b131)
 * [Eskimos auf der Wanderung.](ch006.xhtml#b138)
 * [Unser Zelt am magnetischen Nordpol.](ch006.xhtml#b147)  
-* Der „Uhu“ als Bogenschütze
-* Kabloka   
-* Umiktuallu   
-* Onaller mit Sohn  
-* Talurnakto    
-* Sommerbild auf Deck Gjöahavn 1904   
-* Sommer auf King Williams-Land
-* Umiktuallu ersticht seinen Pflegesohn    
-* Adolf Lindström mit Fischen auf King Williams-Land
-* Geschlossenes Netschjilligrab
-* Offenes Netschiilligrab  
-* Bootexpedition zur Erforschung der magnetischen
-* Verhältnisse auf King Williams-Land  
-* G. Hansen und H. Hansen auf einer Bootreise   
-* Winter im Gjöahayn   
+* [Der „Uhu“ als Bogenschütze.](ch007.xhtml#b151)
+* [Kabloka](ch007.xhtml#b152)   
+* [Umiktuallu](ch007.xhtml#b153)     
+* [Onaller mit Sohn.](ch007.xhtml#b154)   
+* [Talurnakto](ch007.xhtml#b155)      
+* [Sommerbild auf Deck Gjöahavn 1904.](ch007.xhtml#b160)    
+* [Sommer auf King Williams-Land.](ch007.xhtml#b162)
+* [Umiktuallu ersticht seinen Pflegesohn.](ch007.xhtml#b168)   
+* [Adolf Lindström mit Fischen auf King Williams-Land.](ch007.xhtml#b171)  
+* [Geschlossenes Netschjilligrab.](ch007.xhtml#b172)
+* [Offenes Netschiilligrab.](ch007.xhtml#b173)  
+* [Bootexpedition zur Erforschung der magnetischen Verhältnisse auf King Williams-Land.](ch007.xhtml#b174)   
+* [G. Hansen und H. Hansen auf einer Bootreise.](ch007.xhtml#b177)    
+* [Winter im Gjöahavn.](ch007.xhtml#b184)   
 * Netschjillieskimos kommen auf Besuch
 * Der Eispalast des „Uhu“ auf King Williams-Land   
 * Ein Jagdausflug    

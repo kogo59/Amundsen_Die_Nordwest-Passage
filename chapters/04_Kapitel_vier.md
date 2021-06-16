@@ -862,7 +862,7 @@ wieder zum Vorschein. Ab und zu tauchten Schneehühner auf, und mit seiner
 Schrotflinte verschaffte uns Ristvedt mehr als eine herrliche Mahlzeit.
 
 :::: {.wrap-70 .break-before }
-![Unser Zelt am magnetischen Nordpol.](Die_Nordwest-Passage_147.jpg "EUnser Zelt am magnetischen Nordpol."){#b147}
+![Unser Zelt am magnetischen Nordpol.](Die_Nordwest-Passage_147.jpg "Unser Zelt am magnetischen Nordpol."){#b147}
 ::::
 
 Die Küste ist ganz Boothia entlang so flach wie ein Pfannkuchen. Weit drinnen
