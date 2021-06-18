@@ -175,15 +175,15 @@ mein Manuskript durchgesehen hat.
 * [Bootexpedition zur Erforschung der magnetischen Verhältnisse auf King Williams-Land.](ch007.xhtml#b174)   
 * [G. Hansen und H. Hansen auf einer Bootreise.](ch007.xhtml#b177)    
 * [Winter im Gjöahavn.](ch007.xhtml#b184)   
-* Netschjillieskimos kommen auf Besuch
-* Der Eispalast des „Uhu“ auf King Williams-Land   
-* Ein Jagdausflug    
-* Akla mit Sohn  
-* Ein Eskimolager zur Winterzeit
-* „Silla“ mit ihren Jungen beim Provianthaus  
-* „Uranienborg“, das astronomische Observatorium, zur Winterzeit   
-* Schneehütten im Lindströmtal beim Gjöahavn  
-* Magito, die Schönheit von Ogchjoktu   
+* [Netschjillieskimos kommen auf Besuch.](ch008.xhtml#b187)  
+* [Der Eispalast des „Uhu“ auf King Williams-Land.](ch008.xhtml#b191)   
+* [Ein Jagdausflug.](ch008.xhtml#b192)    
+* [Akla mit Sohn.](ch008.xhtml#b196)    
+* [Ein Eskimolager zur Winterzeit.](ch008.xhtml#b198)
+* [„Silla“ mit ihren Jungen beim Provianthaus.](ch008.xhtml#b203)
+* [„Uranienborg“, das astronomische Observatorium, zur Winterzeit.](ch008.xhtml#b204)    
+* [Schneehütten im Lindströmtal beim Gjöahavn.](ch008.xhtml#b211)      
+* [Magito, die Schönheit von Ogchjoktu.](ch008.xhtml#b215)  
 * Nalungia und Atikleura vor ihrem Zelt   
 * Eskimogerätschaften  
 * Kajak im Bau  
