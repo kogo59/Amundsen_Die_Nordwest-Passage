@@ -184,23 +184,23 @@ mein Manuskript durchgesehen hat.
 * [„Uranienborg“, das astronomische Observatorium, zur Winterzeit.](ch008.xhtml#b204)    
 * [Schneehütten im Lindströmtal beim Gjöahavn.](ch008.xhtml#b211)      
 * [Magito, die Schönheit von Ogchjoktu.](ch008.xhtml#b215)  
-* Nalungia und Atikleura vor ihrem Zelt   
-* Eskimogerätschaften  
-* Kajak im Bau  
-* Ojara und Alo-Alo bei ihrer Schneehütte     
-* Ein lebendiger Stiefelknecht
-* Sommerszene in Netschjilli
-* Netschjillieskimos in ihrer Schneehütte   
-* Akiva und Alo-Alo ziehen auf die Jagd
-* Präderik und seine Frau in ihrer Schneehütte    
-* Ein Oglulieskimo beim Ausbessern seines Schlittens
-* Kleine Bogenschützen vom Netschjillistamm   
-* Netschjillieskimos, zum Lachsfang gerüstet
-* Ila und Kiviutchjervi  
-* Tätowierter Arm einer Utkohikchjallikeskimofrau   
-* Tätowierter Schenkel einer Netschjillieskimofrau   
-* Der „Uhu“ auf dem Lachsfang
-* Besuch von Netschjillieskimos an Bord    
+* [Nalungia und Atikleura vor ihrem Zelt.](ch009.xhtml#b229)   
+* [Eskimogerätschaften](ch009.xhtml#b231)   
+* [Kajak im Bau.](ch009.xhtml#b235)   
+* [Ojara und Alo-Alo bei ihrer Schneehütte.](ch009.xhtml#b238)        
+* [Ein lebendiger Stiefelknecht.](ch009.xhtml#b243)
+* [Sommerszene in Netschjilli.](ch009.xhtml#b255)
+* [Netschjillieskimos in ihrer Schneehütte.](ch009.xhtml#b269)   
+* [Ahiva und Alo-Alo ziehen auf die Jagd.](ch009.xhtml#b272)
+* [Präderik und seine Frau in ihrer Schneehütte.](ch009.xhtml#b276)     
+* [Ein Oglulieskimo beim Ausbessern seines Schlittens.](ch009.xhtml#b282)
+* [Kleine Bogenschützen vom Netschjillistamm.](ch009.xhtml#b283)  
+* [Netschjillieskimos, zum Lachsfang gerüstet.](ch009.xhtml#b285)
+* [Illa und Kiviutchjervi.](ch009.xhtml#b287)
+* [Tätowierter Arm einer Utkohikchjallikeskimofrau.](ch009.xhtml#b288)    
+* [Tätowierter Schenkel einer Netschjillieskimofrau.](ch009.xhtml#b289)      
+* [Der „Uhu“ auf dem Lachsfang.](ch009.xhtml#b290)
+* [Besuch von Netschjillieskimos an Bord.](ch009.xhtml#b297)   
 * Lindström nimmt bei den Netschjillieskimos Unterricht im Schneehüttenbau
 * Szene auf Deck (Sommer 1904)
 * Fest in der Kajüte    
