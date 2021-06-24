@@ -201,14 +201,14 @@ mein Manuskript durchgesehen hat.
 * [Tätowierter Schenkel einer Netschjillieskimofrau.](ch009.xhtml#b289)      
 * [Der „Uhu“ auf dem Lachsfang.](ch009.xhtml#b290)
 * [Besuch von Netschjillieskimos an Bord.](ch009.xhtml#b297)   
-* Lindström nimmt bei den Netschjillieskimos Unterricht im Schneehüttenbau
-* Szene auf Deck (Sommer 1904)
-* Fest in der Kajüte    
-* Fest in der Kajüte    
-* Fest
-* Leutnant Hansen als Photograph
-* Tonnich
-* Die Gjöa im Sommerkleid
+* [Lindström nimmt bei den Netschjillieskimos Unterricht im Schneehüttenbau.](ch010.xhtml#b301)   
+* [Szene auf Deck (Sommer 1904).](ch010.xhtml#b311)  
+* [Fest in der Kajüte.](ch010.xhtml#b316)    
+* [Fest in der Kajüte.](ch010.xhtml#b317)    
+* [Fest](ch010.xhtml#b325)
+* [Leutnant Hansen als Photograph.](ch010.xhtml#b329)
+* [Tonnich](ch010.xhtml#b332)
+* [Die Gjöa im Sommerkleid.](ch010.xhtml#b336)
 * Itchjuachtorvikeskimo in seinem Kajak   
 * Eine Eskimofähre (Kamiglu 1905)
 * Erstes Zusammentreffen der Gjöa mit Walfischfängern nach Vollendung der Nordwest-Passage   
