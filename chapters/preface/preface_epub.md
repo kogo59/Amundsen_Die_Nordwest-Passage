@@ -209,12 +209,12 @@ mein Manuskript durchgesehen hat.
 * [Leutnant Hansen als Photograph.](ch010.xhtml#b329)
 * [Tonnich](ch010.xhtml#b332)
 * [Die Gjöa im Sommerkleid.](ch010.xhtml#b336)
-* Itchjuachtorvikeskimo in seinem Kajak   
-* Eine Eskimofähre (Kamiglu 1905)
-* Erstes Zusammentreffen der Gjöa mit Walfischfängern nach Vollendung der Nordwest-Passage   
-* Der gestrandete Walfischfänger
+* [Itchjuachtorvikeskimo in seinem Kajak.](ch011.xhtml#b345)   
+* [Eine Eskimofähre (Kamiglu 1905).](ch011.xhtml#b347)
+* [Erstes Zusammentreffen der Gjöa mit Walfischfängern nach Vollendung der Nordwest-Passage.](ch011.xhtml#b359)    
+* [Der gestrandete Walfischfänger.](ch011.xhtml#b369)  
 * „Bonanza“ bei King Point
-* Eskimos bei King Point  
+* [Eskimos bei King Point.](ch011.xhtml#b371)  
 * Roksi
 * Unser Wohnhaus bei King Point
 * Unser Registrierhaus bei King Point
