@@ -215,30 +215,29 @@ mein Manuskript durchgesehen hat.
 * [Der gestrandete Walfischfänger.](ch011.xhtml#b369)  
 * „Bonanza“ bei King Point
 * [Eskimos bei King Point.](ch011.xhtml#b371)  
-* Roksi
-* Unser Wohnhaus bei King Point
-* Unser Registrierhaus bei King Point
-* Im Winterquartier unter King Point
-* Die Kolonie bei King Point
-* Kunak mit Familie im Sommer bei King Point  
-* King Point   
-* Das Land zwischen King Point und Key Point  
-* Die Flotte der amerikanischen
-* Walfischfänger bei der Insel Herschel   
-* Winterleben auf der Insel Herschel   
-* Theatervorstellung auf der Insel Herschel    
-* Eskimozelt bei King Point
-* Kaffeegesellschaft bei King Point
-* Gustav Juel Wük  
-* Frühlingsbild aus King Point
-* Sommerbild aus King Point
-* Anakto (Eskimo von der Insel Herschel)    
-* Helmer Hansen   
-* Wiiks Grab bei King Point
-* Manitchja mit Familie bei King Point   
-* Sommerphotographie vom Gipfel auf King Point hinunter    
-* Merkmal für das magnetische Stativ (King Point)   
-* Die beiden ersten Walfischfänger fahren in den Hafen von King Point ein (11. Juli 1906)
+* [Roksi](ch012.xhtml#b375)  
+* [Unser Wohnhaus bei King Point.](ch012.xhtml#b377)
+* [Unser Registrierhaus bei King Point.](ch012.xhtml#b378)
+* [Im Winterquartier unter King Point.](ch012.xhtml#b379)
+* [Die Kolonie bei King Point.](ch012.xhtml#b381)
+* [Kunak mit Familie im Sommer bei King Point.](ch012.xhtml#b382)
+* [King Point](ch012.xhtml#b383)    
+* [Das Land zwischen King Point und Key Point.](ch012.xhtml#b384)
+* [Die Flotte der amerikanischen Walfischfänger bei der Insel Herschel.](ch012.xhtml#b387)  
+* [Winterleben auf der Insel Herschel.](ch012.xhtml#b389)    
+* [Theatervorstellung auf der Insel Herschel.](ch012.xhtml#b390)     
+* [Eskimozelt bei King Point.](ch012.xhtml#b391)
+* [Kaffeegesellschaft bei King Point.](ch012.xhtml#b392)
+* [Gustav Juel Wiik](ch012.xhtml#b401)
+* [Frühlingsbild aus King Point.](ch012.xhtml#b404)
+* [Sommerbild aus King Point.](ch012.xhtml#b406)
+* [Anakto (Eskimo von der Insel Herschel)](ch012.xhtml#b408)   
+* [Helmer Hansen](ch012.xhtml#b411)   
+* [Wiiks Grab bei King Point.](ch012.xhtml#b413)
+* [Manitchja mit Familie bei King Point.](ch012.xhtml#b415)   
+* [Sommerphotographie vom Gipfel auf King Point hinunter.](ch012.xhtml#b417)      
+* [Merkmal für das magnetische Stativ (King Point).](ch012.xhtml#b418)  
+* [Die beiden ersten Walfischfänger fahren in den Hafen von King Point ein (11. Juli 1906).](ch012.xhtml#b420)
 * Roald Amundsen bei der Abreise von Eagle City (1905)
 * Jimmi, Mitglied der Postexpedition    
 * Kappa, Mitglied der Postexpedition   
