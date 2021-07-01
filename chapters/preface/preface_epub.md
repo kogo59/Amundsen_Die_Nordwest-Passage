@@ -238,13 +238,13 @@ mein Manuskript durchgesehen hat.
 * [Sommerphotographie vom Gipfel auf King Point hinunter.](ch012.xhtml#b417)      
 * [Merkmal für das magnetische Stativ (King Point).](ch012.xhtml#b418)  
 * [Die beiden ersten Walfischfänger fahren in den Hafen von King Point ein (11. Juli 1906).](ch012.xhtml#b420)
-* Roald Amundsen bei der Abreise von Eagle City (1905)
-* Jimmi, Mitglied der Postexpedition    
-* Kappa, Mitglied der Postexpedition   
-* Das Zelt der Postexpedition
-* Lee Provosts Hütte   
-* Ein Erdhaufen, der für eine Million Dollars Goldstaub enthält (Nome)   
-* Fort Egbert bei Eagle City (Alaska)   
+* [Roald Amundsen bei der Abreise von Eagle City (1905).](ch013.xhtml#b423)
+* [Jimmi, Mitglied der Postexpedition.](ch013.xhtml#b424)    
+* [Kappa, Mitglied der Postexpedition.](ch013.xhtml#b425)     
+* [Das Zelt der Postexpedition.](ch013.xhtml#b427)
+* [Lee Provosts Hütte.](ch013.xhtml#b446)   
+* [Ein Erdhaufen, der für eine Million Dollars Goldstaub enthält (Nome).](ch013.xhtml#b447)   
+* [Fort Egbert bei Eagle City (Alaska).](ch013.xhtml#b448)     
 * Sommer bei King Point  
 * Wir senkten langsam die Flagge, — ein letzter Gruß von den Kameraden  
 * Vegetation bei King Point
