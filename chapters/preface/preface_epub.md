@@ -245,18 +245,18 @@ mein Manuskript durchgesehen hat.
 * [Lee Provosts Hütte.](ch013.xhtml#b446)   
 * [Ein Erdhaufen, der für eine Million Dollars Goldstaub enthält (Nome).](ch013.xhtml#b447)   
 * [Fort Egbert bei Eagle City (Alaska).](ch013.xhtml#b448)     
-* Sommer bei King Point  
-* Wir senkten langsam die Flagge, — ein letzter Gruß von den Kameraden  
-* Vegetation bei King Point
-* Eskimogräber auf der Insel Herschel   
-* Gräber von Walfischfängern auf der Insel Herschel  
-* Eskimohütten auf der Insel Herschel   
-* Tupsi, Eskimofrau von der Insel Herschel   
-* Manni (Sommer 1906)
-* Anton Lund (Frühling 1906)
-* Bei der Ankunft in Nome
-* Ein Winterfest in Nome  
-* Die Gjöa bei Nome vor Anker
+* [Sommer bei King Point.](ch014.xhtml#b452)    
+* [Wir senkten langsam die Flagge, — ein letzter Gruß von den Kameraden.](ch014.xhtml#b453)  
+* [Vegetation bei King Point.](ch014.xhtml#b457)
+* [Eskimogräber auf der Insel Herschel.](ch014.xhtml#b458)   
+* [Gräber von Walfischfängern auf der Insel Herschel.](ch014.xhtml#b459)  
+* [Eskimohütten auf der Insel Herschel.](ch014.xhtml#b460)    
+* [Tupsi, Eskimofrau von der Insel Herschel.](ch014.xhtml#b461)   
+* [Manni (Sommer 1906)](ch014.xhtml#b464)
+* [Anton Lund (Frühling 1906)](ch014.xhtml#b479)
+* [Bei der Ankunft in Nome.](ch014.xhtml#b480)
+* [Ein Winterfest in Nome.](ch014.xhtml#b481)  
+* [Die Gjöa bei Nome vor Anker.](ch014.xhtml#b482)
 * Leutnant Hansen (Frühling 1906)
 * Peder Ristvedt (Frühling 1906)
 * Unsre getreuen Begleiter  
