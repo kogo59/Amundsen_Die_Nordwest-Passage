@@ -230,7 +230,7 @@ magnetischen Observatorium in Potsdam erhalten und war mein Gehilfe bei den
 magnetischen Beobachtungen; er war der zweite Maschinist.
 
 6. Adolf Henrik Lindström, geboren zu Hammerfest 1865, der Koch der Expedition.
-Er hatte als Koch an der zweiten 13reise der „Fram“^[^0009]^ teilgenommen.
+Er hatte als Koch an der zweiten Reise der „Fram“^[^0009]^ teilgenommen.
 
 Eine Zeitlang hatten wir noch Geldsorgen. Erst im Juni war alles geordnet. Jetzt
 konnten wir an Bord unserer kleinen Jacht gehen und die Fahrt mit der Gjöa

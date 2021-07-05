@@ -257,11 +257,11 @@ mein Manuskript durchgesehen hat.
 * [Bei der Ankunft in Nome.](ch014.xhtml#b480)
 * [Ein Winterfest in Nome.](ch014.xhtml#b481)  
 * [Die Gjöa bei Nome vor Anker.](ch014.xhtml#b482)
-* Leutnant Hansen (Frühling 1906)
-* Peder Ristvedt (Frühling 1906)
-* Unsre getreuen Begleiter  
-* Auf dem Wege nach Victorialand
-* Auf Victorialand    
+* [Leutnant Hansen (Frühling 1906)](ch015.xhtml#b488)
+* [Peder Ristvedt (Frühling 1906)](ch015.xhtml#b491)
+* [Unsre getreuen Begleiter.](ch015.xhtml#b500)  
+* [Auf dem Wege nach Victorialand.](ch015.xhtml#b505)
+* [Auf Victorialand.](ch015.xhtml#b505)    
 
 :::: {.wrap-100 .break-before}
 ![Querschnitt der Gjöa — 47 R.-Tons](Die_Nordwest-Passage_001a.jpg "Querschnitt der Gjöa — 47 R.-Tons"){#b001a}

@@ -1,4 +1,4 @@
-# Zwöelftes Kapitel<br />**Schluß** {#zwoelf .unnumbered}
+# Zwölftes Kapitel<br />**Schluß** {#zwoelf .unnumbered}
 
 ::: justified
 
