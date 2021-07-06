@@ -1,4 +1,4 @@
-# Dreizehntes Kapitel<br />**Schlittenreise nach Kong Haakon VII.-Land** {#dreizehn .unnumbered}
+# **Schlittenreise nach Kong Haakon VII.-Land** {#dreizehn .unnumbered}
 
 :::: { .align-center .fs-xs }
 Von

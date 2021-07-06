@@ -340,7 +340,7 @@ den Chef, für das Begräbnis zu sorgen, falls die Leiche an Land treiben würde
 Aber die Eskimos meinten, Manni würde nie gefunden werden: die Strömung führe
 ins offne Meer hinaus.
 
-:::: {.wrap-50 }
+:::: {.wrap-50 .break-before }
 ![Manni (Sommer 1906)](Die_Nordwest-Passage_464.jpg "Manni (Sommer 1906)"){#b464}
 ::::
 

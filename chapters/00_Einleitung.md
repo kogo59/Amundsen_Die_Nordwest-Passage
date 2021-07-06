@@ -262,6 +262,6 @@ menschlichen Wissenschaft zu beginnen.
 
 [^0007]: [*Godfred Hansen*: vergleiche [Godfred Hansen](https://de.wikipedia.org/wiki/Godfred_Hansen)]{.footnote}
 
-[^0008]: [*Helmer Hansen*: vergleiche [Godfred Hansen](https://de.wikipedia.org/wiki/Helmer_Hanssen)]{.footnote}
+[^0008]: [*Helmer Hansen*: vergleiche [Helmer Hansen](https://de.wikipedia.org/wiki/Helmer_Hanssen)]{.footnote}
 
 [^0009]: [*Fram*: vergleiche [Fram](https://de.wikipedia.org/wiki/Fram_(Schiff,_1892))]{.footnote}

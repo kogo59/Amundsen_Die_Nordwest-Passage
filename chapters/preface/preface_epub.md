@@ -79,8 +79,10 @@ von
 :::: { .fs-xl .align-right }
 Roald Amundsen
 ::::
-— — — — — — — — — — — —
 
+:::: align-center
+— — — — — — — — — — — —
+::::
 
 ::: { .justified .break-before }
 Der kleinen tapfern Schar, die mich auf der Nordwest-Passage begleitet und zur

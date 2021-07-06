@@ -331,7 +331,7 @@ Franklins tapfrer Schar ihren letzten Seufzer ausgehaucht hatten — im letzten
 Akt dieses großen Trauerspiels.
 
 :::: {.wrap-100 }
-![Ein Eskimolager zur Winterzeit.(Mondscheinphotographie)](Die_Nordwest-Passage_198.jpg "Ein Eskimolager zur Winterzeit."){#b198}
+![Ein Eskimolager zur Winterzeit. (Mondscheinphotographie)](Die_Nordwest-Passage_198.jpg "Ein Eskimolager zur Winterzeit."){#b198}
 ::::
 
 An dieser Stätte, mit der so viele traurige Erinnerungen verknüpft sind,
