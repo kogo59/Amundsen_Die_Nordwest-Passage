@@ -24,4 +24,7 @@ before January 1, 1925.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
- Die Nordwest-Passage [archive.org](https://archive.org/details/dienordwestpassa00amun/mode/2up)
+Die Nordwest-Passage. [archive.org](https://archive.org/details/dienordwestpassa00amun/mode/2up)
+
+# ePUB
+Die Nordwest-Passage. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=340483)
