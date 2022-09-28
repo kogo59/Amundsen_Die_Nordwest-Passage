@@ -273,28 +273,6 @@ mein Manuskript durchgesehen hat.
 ![Deck der Gjöa](Die_Nordwest-Passage_001b.jpg "Deck der Gjöa"){#b001b}
 ::::
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ::: align-center
 ****
 :::
