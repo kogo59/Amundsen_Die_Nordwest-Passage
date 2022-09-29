@@ -37,8 +37,6 @@ epub: $(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
 html: $(BUILD)/html/$(OUTPUT_FILENAME).html
 
-pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
-
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(METADATA) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/epub
@@ -46,7 +44,6 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	$(CALIBRE)ebook-polish --add-soft-hyphens -i -p -U $@ $@
 	$(CALIBRE)ebook-convert $@ $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 --share-not-sync --disable-font-rescaling
 	$(CALIBRE)ebook-convert $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 $(BUILD)/epub/$(OUTPUT_FILENAME).mobi --share-not-sync --disable-font-rescaling --mobi-file-type both
-
 
 docx: $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
@@ -62,3 +59,18 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	cp  *.css  $(IMAGES_FOLDER)
 	pandoc $(ARGS_HTML)  --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
+
+pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+
+$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
+	mkdir -p $(BUILD)/pdf
+	cp  *.css  $(IMAGES_FOLDER)
+	cp  $(IMAGES_FOLDER)/Die_Nordwest-Passage*.jpg .
+	cp  $(IMAGES_FOLDER)/cover1.jpg .
+	cp  $(IMAGES_FOLDER)/logo.jpg .
+	pandoc $(ARGS_HTML)  $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
+	rm  $(IMAGES_FOLDER)/*.css
+	rm Die_Nordwest-Passage*.jpg
+	rm  cover1.jpg 
+	rm logo.jpg
+
