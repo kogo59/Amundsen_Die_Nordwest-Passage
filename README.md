@@ -1,5 +1,7 @@
 # Die Nordwest-Passage
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193358153-1cbac62c-6da3-447e-8535-813936fe2fc0.jpg">
+
 This is a git repository of the source files for the book
 "Die Nordwest-Passage"
 
