@@ -1770,10 +1770,5 @@ Ende
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*A. P. Hovgaard*: vergleiche [Hovgaard Islands](https://de.wikipedia.org/wiki/Hovgaard_Islands)]{.footnote}

@@ -195,8 +195,3 @@ Roald Amundsen
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

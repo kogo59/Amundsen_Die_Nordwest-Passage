@@ -855,11 +855,6 @@ mir die Tränen in die Augen traten, das alte patriotische Heimatlied:
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Bartenwal*: vergleiche [Bartenwal](https://de.wikipedia.org/wiki/Bartenwale)]{.footnote}
 

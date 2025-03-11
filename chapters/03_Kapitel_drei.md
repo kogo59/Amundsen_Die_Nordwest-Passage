@@ -1079,10 +1079,5 @@ hofften wir uns mit denen, die wir hatten, behelfen zu können.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Krag Jörgensen-Karabiner*: vergleiche [Krag-Jørgensen](https://de.wikipedia.org/wiki/Krag-J%C3%B8rgensen)]{.footnote}

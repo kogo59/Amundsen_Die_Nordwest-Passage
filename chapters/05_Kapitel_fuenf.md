@@ -917,10 +917,5 @@ begonnen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [Kleines amerikanisches Boot von der Art, wie sie in der Hudsonbay gebraucht werden. (Anm. d. Ü.)]{.footnote}

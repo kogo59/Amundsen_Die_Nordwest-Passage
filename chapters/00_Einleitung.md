@@ -239,13 +239,6 @@ menschlichen Wissenschaft zu beginnen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0000]: [Ein gespenstisches Ungeheuer des Nordens, das sich dem Wanderer als ein unsichtbares, kaltes, schleimiges Etwas um die Füße legt.]{.footnote}
 
 [^0001]: [*Vega*: vergleiche [Vega (Schiff)](https://de.wikipedia.org/wiki/Vega_(Schiff,_1873))]{.footnote}

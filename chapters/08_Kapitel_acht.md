@@ -1020,11 +1020,6 @@ Zeit zurückdenke. Und deshalb sende ich auch in Gedanken meinen Kameraden einen
 herzlichen Dank für die Tage im Gjöahafen.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Collinson*: vergleiche [Richard Collinson](https://de.wikipedia.org/wiki/Richard_Collinson)]{.footnote}
 

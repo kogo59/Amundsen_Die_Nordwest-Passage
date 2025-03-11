@@ -821,11 +821,6 @@ zogen an, nordwärts — zu der Gjöa und zu meinen Kameraden!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Eagle City*: vergleiche [Eagle](https://de.wikipedia.org/wiki/Eagle_(Alaska))]{.footnote}
 

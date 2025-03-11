@@ -100,7 +100,7 @@ dessen, der auf der Walstatt gefallen ist.
 :::
 
 ::: { .justified .break-before }
-Für die wertvolle Hilfe, dıe mır ın Beziehung auf dıe schwierigen magnetischen
+Für die wertvolle Hilfe, die mir ın Beziehung auf dıe schwierigen magnetischen
 Fragen zuteil geworden ist, spreche ich dem Herrn Meteorologen Axel Steen,
 Seiner Exzellenz Professor Dr. G. v. Neumayer, Herrn Professor Adolf Schmidt und
 Herrn Professor Johannes Edler meinen besten Dank aus.

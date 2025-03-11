@@ -1165,12 +1165,6 @@ Jetzt war unsre Zeit gekommen, und alles war zur Abfahrt bereit.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1000]: [*Fort Mc. Pherson*: vergleiche [Fort McPherson](https://de.wikipedia.org/wiki/Fort_McPherson_(Nordwest-Territorien)))]{.footnote}
 
 [^1001]: [*Fort Yukon*: vergleiche [Fort Yukon](https://de.wikipedia.org/wiki/Fort_Yukon)]{.footnote}

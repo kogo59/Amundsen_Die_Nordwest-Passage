@@ -2030,10 +2030,5 @@ zusammen in dem einen, daß ihnen die Zivilisation niemals nahen möge!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [*Kobberminefluß*: vergleiche [Coppermine River](https://de.wikipedia.org/wiki/Coppermine_River)]{.footnote}

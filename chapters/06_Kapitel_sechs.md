@@ -1048,8 +1048,3 @@ Schneesturm, aber die Kälte des Winters war gebrochen und kehrte nicht wieder.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

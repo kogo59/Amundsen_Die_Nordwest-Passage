@@ -978,12 +978,6 @@ entgegensehen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0200]: [*Barrowstraße*: vergleiche [Barrow Strait](https://de.wikipedia.org/wiki/Barrow_Strait)]{.footnote}
 
 [^0201]: [*Prinz of Wales Land*: vergleiche [Prince-of-Wales-Insel](https://de.wikipedia.org/wiki/Prince-of-Wales-Insel_(Nunavut))]{.footnote}

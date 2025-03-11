@@ -883,11 +883,6 @@ vielen ungünstigen Umstände mußten wir mit den Resultaten zufrieden sein.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Insel Matty*: vergleiche [Matty Island](https://en.wikipedia.org/wiki/Matty_Island)]{.footnote}
 

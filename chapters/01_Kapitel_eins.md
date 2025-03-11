@@ -917,11 +917,6 @@ weiterzukommen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Godhavn*: vergleiche [Qeqertarsuaq](https://de.wikipedia.org/wiki/Qeqertarsuaq)]{.footnote}
 

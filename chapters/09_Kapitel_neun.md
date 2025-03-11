@@ -990,11 +990,6 @@ werden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0900]: [*John Davis*: vergleiche [John Davis](https://de.wikipedia.org/wiki/John_Davis_(Entdecker))]{.footnote}
 
